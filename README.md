@@ -9,7 +9,6 @@ Curated list of Zcash related projects.
 - [Infrastructure & Nodes](#infrastructure--nodes)
 - [Mining](#mining)
 - [Developer Tools](#developer-tools)
-- [Exchanges & DeFi](#exchanges--defi)
 - [Community & Resources](#community--resources)
 
 ---
@@ -54,13 +53,6 @@ Curated list of Zcash related projects.
 - [Zcash Protocol Specification](https://zips.z.cash/protocol/protocol.pdf) – The formal protocol specification document.
 - [Orchard](https://github.com/zcash/orchard) – Rust implementation of the Orchard shielded protocol introduced in the NU5 upgrade.
 - [Halo2](https://github.com/privacy-scaling-explorations/halo2) – Proving system used in Zcash's Orchard shielded protocol.
-
-## Exchanges & DeFi
-
-- [Gemini](https://www.gemini.com/) – US-based regulated exchange supporting ZEC trading.
-- [Kraken](https://www.kraken.com/) – Global exchange with ZEC spot trading pairs.
-- [Binance](https://www.binance.com/) – Major exchange offering ZEC spot and margin trading.
-- [Thorchain](https://thorchain.org/) – Decentralized cross-chain liquidity protocol with ZEC support.
 
 ## Community & Resources
 
